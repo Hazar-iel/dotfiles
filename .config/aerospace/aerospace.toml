@@ -72,9 +72,9 @@ on-mode-changed = []
 [gaps]
     inner.horizontal = 4
     inner.vertical =   4
-    outer.left =       4
+    outer.left =       8
     outer.bottom =     8
-    outer.top =        48
+    outer.top =        16
     outer.right =      8
 
 # 'main' binding mode declaration
